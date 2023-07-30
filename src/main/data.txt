@@ -1,0 +1,21 @@
+user(
+    id,
+    name,
+    email,
+    password,
+    role,
+    about,
+    active,
+    profile
+)
+
+contact(
+    id,
+    name,
+    nickname,
+    phone,
+    email,
+    description,
+    work,
+    profile
+)
